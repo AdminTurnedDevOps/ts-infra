@@ -1,0 +1,6 @@
+config:
+  az-storage:location: eastus
+  azure-native:location: EastUS
+  rgName: devrelasaservice
+  sgName: sa933test
+  location: eastus
