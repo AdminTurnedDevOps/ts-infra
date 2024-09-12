@@ -1,0 +1,3 @@
+```
+pulumi new azure-typescript
+```
